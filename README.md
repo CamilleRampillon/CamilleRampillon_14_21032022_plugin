@@ -4,12 +4,12 @@
 A library of React components created using `create-react-app`.
 
 ## Link npm
-
+https://www.npmjs.com/package/p14-plugin
 ## Link demo
 
 ## Installation
 Run the following command:
-`npm install p14-plugin`
+`npm i p14-plugin`
 
 ## How to import the component in your project
 `import { Modal } from \'p14-plugin\'`

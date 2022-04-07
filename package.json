@@ -1,6 +1,6 @@
 {
   "name": "p14-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
@@ -45,7 +45,7 @@
     "react-scripts": "5.0.0"
   },
   "main": "dist/index.js", 
-  "module": "dist/index.js", 
+  "module": "dist/index.js",
   "files": [ "dist", "README.md" ], 
   "repository": { 
     "type": " git", 
